@@ -4,7 +4,8 @@
 // if, while, return, and expression statements
 // just enough features to allow self-compilation and a bit more
 //
-// Written by Robert Swierczek
+//c4 Written by Robert Swierczek
+//c4go Written by Zombie-Kaiser
 //
 //	go build -o c4go .
 //	./c4go hello.c
