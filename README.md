@@ -1,6 +1,6 @@
 # c4go — c4 in Go
 
-A port of [c4](https://github.com/swesterfield/c4) (Robert Swierczek's "C in four
+A port of [c4](https://github.com/rswier/c4) (Robert Swierczek's "C in four
 functions") to Go. Same algorithm, same bytecode VM, same language surface —
 a C compiler that fits in one file and compiles itself.
 
